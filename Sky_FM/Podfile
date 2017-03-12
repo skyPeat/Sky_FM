@@ -1,0 +1,9 @@
+
+# platform :ios, '9.0'
+
+target 'Sky_FM' do
+  
+pod 'AFNetworking', '~> 3.1.0'
+
+
+end
